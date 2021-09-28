@@ -9,8 +9,9 @@ import java.util.List;
  * distinct integer keys and info
  *
  */
-//Shir Shintel,208847053, shirshintel
-//Eden May Tal,205799505, edenmaytal
+//Shir Shintel
+//Eden May Tal
+
 public class AVLTree {
 	
 	private IAVLNode root;
